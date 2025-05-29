@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "titulo": "Estudiar variables de entorno",
+        "descripcion": "Leer documentaci\u00f3n sobre configuraci\u00f3n de entorno en sistemas operativos.",
+        "estado": "pendiente"
+    },
+    {
+        "id": 1748560191,
+        "titulo": "computadora de java ",
+        "descripcion": "arreglo en java  ",
+        "estado": "en progreso"
+    },
+    {
+        "id": 1748560296,
+        "titulo": "telefono en procesos ",
+        "descripcion": "arreglar  los telefonos ",
+        "estado": "completada"
+    },
+    {
+        "id": 1748560343,
+        "titulo": "trapear",
+        "descripcion": "en casa para salir ",
+        "estado": "pendiente"
+    },
+    {
+        "id": 1748560421,
+        "titulo": "pedaas maxivas ",
+        "descripcion": "amanecer sin ropa y llegar a casa todo pedo ",
+        "estado": "completada"
+    },
+    {
+        "id": 1748560497,
+        "titulo": "alex marin ",
+        "descripcion": "arestado por andar con una de 16 a\u00f1os ",
+        "estado": "en progreso"
+    },
+    {
+        "id": 1748560597,
+        "titulo": "los \u00f1eros ",
+        "descripcion": "el matias \u00f1ero ",
+        "estado": "en progreso"
+    }
+]
